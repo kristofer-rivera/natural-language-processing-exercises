@@ -10,3 +10,6 @@ Thumbs.db
 *.zip
 *.mp4
 *.png
+*.pdf
+
+*_lesson.ipynb
